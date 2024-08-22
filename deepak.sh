@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "maighhggjj sansar rahe ya na rhe"
+echo "maighsansar rahe ya na rhe"
