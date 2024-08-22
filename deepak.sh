@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "maighsansar rahe ya na rhe"
+echo "For the testing purpose"
